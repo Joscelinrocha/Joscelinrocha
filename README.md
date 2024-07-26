@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=🧠%20personal%20website&logo=&style=square&color=00bef6&url=https://www.JoscelinRocha.com/)](www.JoscelinRocha.com)
 [![Twitter](https://img.shields.io/twitter/follow/JoscelinRocha?color=1DA1F2&logo=twitter&label=twitter&style=square)](https://twitter.com/intent/user?screen_name=JoscelinRocha) 
 [![Blue Sky](https://img.shields.io/badge/Blue_Sky-Follow-blue)](https://bsky.app/profile/joscelinrocha.bsky.social)
-[![Scholar](https://img.shields.io/badge/🎓%20google%20scholar-20-0080ce?style=square)]([https://scholar.google.com/citations?user=YFAwp8oAAAAJ&hl=en](https://scholar.google.com/citations?user=YFAwp8oAAAAJ&hl=en))
+[![Google Scholar](https://img.shields.io/badge/🎓%20Google%20Scholar-Follow-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YFAwp8oAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joscelinrocha/)
 [![R Resources](https://img.shields.io/badge/Resources%20Database-Visit-blue?logo=book&logoColor=white)](https://www.resourcesdatabase.com/)
 [![PayPal](https://img.shields.io/static/v1?message=donate&label=%20&style=square&logo=Paypal&labelColor=5c5c5c&color=004389)](https://paypal.me/JoscelinRocha)
