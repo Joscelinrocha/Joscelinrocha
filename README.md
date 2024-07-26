@@ -13,6 +13,18 @@
 
 </div>
 
+## I'm a Data Scientist, Research Scientist, & Psychologist!
+
+- 📈 Leading Data Analysis: Spearheading data analysis for large-scale NIMH-funded projects on anxiety in parents and children
+- 📐 Advanced Statistical Expertise: Proficient in regressions, ANOVA, T-tests, multilevel modeling, and non-parametric statistics
+- 🔍 Data Integration: Implementing data integration strategies for multimodal datasets to enhance predictive modeling accuracy
+- ⚙️ Automated Reporting: Automated health research report generation using R, improving efficiency and accuracy
+- 📝 Research and Publications: Conducted statistical analyses on longitudinal studies with multiple peer-reviewed publications
+- 👩‍🏫 Teaching and Mentorship: Taught data science and statistical programming to undergraduate and graduate students, mentoring over 50 students
+- 📊 Survey Design: Designed and implemented bilingual surveys for parent-child relationship enhancement and community engagement programs
+- 📂 Open Science Advocate: Promoting open science practices through platforms like OSF and GitHub, enhancing research transparency
+- 🔬 STEM Education and Mentorship: Actively involved in promoting STEM education and supporting mentorship programs
+- 👐 Diversity and Inclusivity: Committed to promoting diversity and inclusivity in research, academia, and beyond
 
 ##
 
